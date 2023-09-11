@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leitana 
 - 👀 Android Developer
 - 🌱 I’m currently learning VUE and c++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:1130037266@qq.com
 
 <!---
